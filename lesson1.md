@@ -11,4 +11,6 @@ shoe7324777
 
 My Favorite 3 Programming Languages
 --------------------------------
-Delphi/C++/Java
+- Delphi
+- C++
+- Java
